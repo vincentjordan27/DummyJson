@@ -1,0 +1,64 @@
+{
+  "_items": [
+    {
+      "name": "Tugas Harian",
+      "description": "Kumpulkan Tugas",
+      "deadline": "21/12/2021",
+      "owner": {
+        "_countryCode": 62,
+        "_created": "2021-03-03 13:56:41",
+        "_etag": "bedb45c3e55d65e62d697c585f22b4296db83dec",
+        "_id": "603f9599bdb657ab8dd20fa7",
+        "_updated": "2021-03-03 13:56:45",
+        "description": "",
+        "photoUrl": "",
+        "system_role": "",
+        "thumbnails": {
+          "medium": "",
+          "small": "",
+          "tiny": ""
+        }
+      }
+    },
+    {
+      "name": "Tugas Mingguan",
+      "description": "Kumpulkan Tugas",
+      "deadline": "25/12/2021",
+      "owner": {
+        "_countryCode": 62,
+        "_created": "2021-03-03 13:56:41",
+        "_etag": "bedb45c3e55d65e62d697c585f22b4296db83dec",
+        "_id": "603f9599bdb657ab8dd20fa7",
+        "_updated": "2021-03-03 13:56:45",
+        "description": "",
+        "photoUrl": "",
+        "system_role": "",
+        "thumbnails": {
+          "medium": "",
+          "small": "",
+          "tiny": ""
+        }
+      }
+    },
+    {
+      "name": "Tugas Bulanan",
+      "description": "Kumpulkan Tugas",
+      "deadline": "30/12/2021",
+      "owner": {
+        "_countryCode": 62,
+        "_created": "2021-03-03 13:56:41",
+        "_etag": "bedb45c3e55d65e62d697c585f22b4296db83dec",
+        "_id": "603f9599bdb657ab8dd20fa7",
+        "_updated": "2021-03-03 13:56:45",
+        "description": "",
+        "photoUrl": "",
+        "system_role": "",
+        "thumbnails": {
+          "medium": "",
+          "small": "",
+          "tiny": ""
+        }
+      }
+    }
+  ]
+}
